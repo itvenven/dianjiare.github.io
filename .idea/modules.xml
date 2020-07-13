@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/backcontroll/backcontroll.iml" filepath="$PROJECT_DIR$/backcontroll/backcontroll.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/dianjiare.github.io.iml" filepath="$PROJECT_DIR$/.idea/dianjiare.github.io.iml" />
     </modules>
   </component>
